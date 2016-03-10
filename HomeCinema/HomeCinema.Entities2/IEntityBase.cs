@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace HomeCinema.Entities
 {
-    interface IEntityBase
+    public interface IEntityBase
     {
         int ID { get; set; }
     }

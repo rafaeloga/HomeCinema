@@ -49,6 +49,7 @@
     <Compile Include="Rental.cs" />
     <Compile Include="Role.cs" />
     <Compile Include="Stock.cs" />
+    <Compile Include="UserRole.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
